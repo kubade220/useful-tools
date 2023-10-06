@@ -12,8 +12,8 @@ This list contains items that i **personally** find useful, usages may differ._
 The concept behind that list is based on the famous "[awesome](https://github.com/sindresorhus/awesome)" lists you can find on github.
 Since they did not fully suited my need, i preferred to go with my own version.
 
-- You can find this project on [Github](https://github.com/trolologuy/useful-tools) <iframe src="https://ghbtns.com/github-btn.html?user=trolologuy&repo=useful-tools&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star Useful Tools on GitHub"></iframe>
-- If you want to find out more about me and my projects, you can find my [portfolio here](https://trolologuy.github.io/)
+- You can find this project on [Github](https://github.com/kubade220/useful-tools) <iframe src="https://ghbtns.com/github-btn.html?user=kubade220&repo=useful-tools&type=star&count=true&size=small" frameborder="0" scrolling="0" width="90" height="20" title="Star Useful Tools on GitHub"></iframe>
+- If you want to find out more about me and my projects, you can find my [portfolio here](https://kubade220.github.io/)
 
 Please feel free to comment or open a pull request if you know better tools / or alternatives or if some links are dead, ... 😉
 
