@@ -1025,6 +1025,7 @@ Since salaries are tough to manage, see an idea of solution with [slite's salary
 - [neuvoo](https://neuvoo.pl/) - Focused on Poland
 - [nofluffjobs](https://nofluffjobs.com/) - :uk: Focused on Poland
 - [pracuj](https://www.pracuj.pl/) - Focused on Poland
+- [justjoinit](https://www.justjoin.it/) - Focused on Poland
 - [wynagrodzenia](https://wynagrodzenia.pl/kalkulator-wynagrodzen/wyniki) - Brutto / Netto calculator
 
 ## Robotic Process Automation (RPA)
