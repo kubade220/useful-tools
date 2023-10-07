@@ -347,6 +347,7 @@ _Who likes to do stuff manually anyway ¯\_(ツ)_/¯_
 - [Phantom JS](https://github.com/ariya/phantomjs) - Scriptable Headless Browser scriptable with JavaScript - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [playwright](https://github.com/microsoft/playwright) - Framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 - [selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
+- [LambdaTest](https://github.com/LambdaTest) - Secure, Reliable, and High Performance Test Execution Cloud Built For Scale - [![](https://img.shields.io/badge/pricing-open--source-green)](#)
 
 ## Command Line Interface (CLI) - tools
 
